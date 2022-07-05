@@ -1,0 +1,2 @@
+# IMDB_Sentiment_Analysis
+Problem Statement:  In this, we have to predict the number of positive and negative reviews based on sentiments by using different classification models........................ Conclusion:  We can observed that both logistic regression and multinomial naive bayes model performing well compared to linear support vector machines. Still we can improve the accuracy of the models by preprocessing data and by using lexicon models like Textblob.
